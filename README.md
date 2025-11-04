@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/garima-jain-58b5002bb//">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jagmohan123.github.io/New-PortFolio/">
+  <a href="https://github.com/Garima-jainn/Project-_Portfolio-Website">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:garimajainkwi@gmail.com">
